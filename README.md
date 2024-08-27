@@ -1,6 +1,6 @@
 
 # Biogenesys: Expansion Estratégica
-![LogoBg]()
+![LogoBg](logoBg.jpg)
 
 
 
