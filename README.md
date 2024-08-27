@@ -1,6 +1,7 @@
 
 # Biogenesys: Expansion Estratégica
-[logoBg.jpg](https://github.com/franbonavento/Biogenesys-Expansion-Estrategica/blob/main/logoBg.jpg)
+![LogoBg]()
+
 
 
 BIOGENESYS es una empresa farmacéutica que busca la Expansión Estratégica de Laboratorios para Investigación y Vacunación de COVID-19
