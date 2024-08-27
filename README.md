@@ -1,5 +1,6 @@
-# Biogenesys: Expansion Estratégica
 
+# Biogenesys: Expansion Estratégica
+logoBg.jpg
 
 
 BIOGENESYS es una empresa farmacéutica que busca la Expansión Estratégica de Laboratorios para Investigación y Vacunación de COVID-19
