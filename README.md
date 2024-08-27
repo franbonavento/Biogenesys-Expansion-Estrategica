@@ -1,5 +1,5 @@
 
-# Biogenesys: Expansion Estratégica
+# Biogenesys: Expansión Estratégica
 ![LogoBg](logoBg.jpg)
 
 
